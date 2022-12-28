@@ -7,7 +7,7 @@
 - ⚡ Fun fact <br>
 - 📫 You can contact me through my email:<br><br>  contact@danielweb.es<br><br>  or through my website:<br><br>  https://danielweb.es/<br><br>
  
-<!---<br>DaniGarPe/DaniGarPe is a special ✨ repository ✨ because its `README.md` (this file) appears on its GitHub profile.<br>You can click the Preview link to see the changes.<br>---><br>
+<!---<br>DaniGarPe/DaniGarPe is a special ✨ repository ✨ because its `README.md` (this file) appears on its GitHub profile.<br> You can click the Preview link to see the changes.<br>---><br>
 
 
 ## 🌐 Socials:
