@@ -1,17 +1,12 @@
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" /><br><br>
 # 💫 About Me:
 - 👋 Hi, I'm Daniel García, frontend developer. <br><br>
 - 👀 I am interested in web development <br><br>
 - 🌱 I am currently learning Angular and improving the rest of my knowledge. <br><br>
 - 💞️ I am looking to collaborate on an interesting professional project. <br><br>
-- 💬 Ask me about <br><br>- ⚡ Fun fact <br> <br>
-- 📫 You can contact me through my email:<br><br>  
-contact@danielweb.es
-<br>
-<br>  
-or through my website:
-<br>
-<br>  
-https://danielweb.es/
+- 💬 Ask me about <br><br>
+- ⚡ Fun fact <br> <br>
+- 📫 You can contact me through my email:<br><br>contact@danielweb.es<br><br>  or through my website:<br><br>  https://danielweb.es/
 <br>
 <br>
 
@@ -53,7 +48,7 @@ https://danielweb.es/
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-garcia-perez-web/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -64,11 +59,7 @@ https://danielweb.es/
   
 
 <br/>  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-garcia-perez-web/) 
-
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniGarPe&theme=midnight-purple&hide_border=true)<br/>
 
