@@ -61,7 +61,7 @@
 <br/>  
 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DaniGarPe&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DaniGarPe&theme=default&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniGarPe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
